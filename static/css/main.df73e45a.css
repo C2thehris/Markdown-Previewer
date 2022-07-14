@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:row;height:100vh;padding-right:10px;text-align:center;width:100vw}.App>textarea{border:none;border-left:16px solid #000;margin-left:auto;resize:none;width:calc(50% - 8px)}.App>textarea::selection{border:none}.App>iframe{width:calc(50% - 8px)}body{font-family:sans-serif;margin:0;padding:0}
+/*# sourceMappingURL=main.df73e45a.css.map*/
